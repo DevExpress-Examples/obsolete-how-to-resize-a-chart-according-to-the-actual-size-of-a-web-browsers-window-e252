@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to resize a chart according to the actual size of a Web Browser's window
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e252)**
+<!-- run online end -->
 
 
 <p><strong>[IMPORTANT UPDATE]</strong> Starting with v17.1, we introduced a new set of ASP.NET WebForms controls that provide built-in integration with the <a href="http://getbootstrap.com/">Bootstrap</a> framework. The <a href="https://documentation.devexpress.com/#AspNetBootstrap/CustomDocument118689"><strong>DevExpress Bootstrap Charts</strong></a> are a set of server-side wrappers for JavaScript-based <a href="https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/StandardBar/jQuery/Light/">DevExtreme Chart widgets</a> that allow you to use the familiar ASP.NET approach when integrating Bootstrap Charts into your web application and attaching it to the common ASP.NET data source. The most important feature (in context of this example) is the client-side chart rendering engine that allows one to adjust the chart size depending on the actual web browser window size <strong>automatically</strong> (<em>adaptive layout)</em> without requesting the new chart's image from the server. For instance, check the following online demo application: <a href="https://demos.devexpress.com/Bootstrap/Charts/Default.aspx">Charts - Overview</a>.</p>
